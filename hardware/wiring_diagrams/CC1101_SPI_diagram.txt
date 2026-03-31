@@ -1,0 +1,3 @@
+CC1101 SPI Connections:
+Arduino Mega Pins 50-52: MOSI, MISO, SCK
+CS pin: 53

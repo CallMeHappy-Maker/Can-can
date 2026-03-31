@@ -1,0 +1,5 @@
+Setup Guide:
+1. Connect PN532 to Arduino Mega using I2C.
+2. Connect CC1101 to Arduino Mega using SPI.
+3. Install libraries for PN532 and CC1101.
+4. Upload firmware to Arduino Mega.

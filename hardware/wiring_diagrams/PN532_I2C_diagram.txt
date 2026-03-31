@@ -1,0 +1,2 @@
+PN532 I2C Connections:
+Arduino Mega Pins 20-21: SDA, SCL

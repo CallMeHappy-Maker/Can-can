@@ -1,0 +1,7 @@
+{
+  "commands": {
+    "NFC_read": {},
+    "RF_transmit": {"data":"<data>"},
+    "sensor_query": {}
+  }
+}
