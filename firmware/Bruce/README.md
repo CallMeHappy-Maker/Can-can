@@ -1,0 +1,1 @@
+Cloned contents of Bruce firmware repository from https://github.com/pr0v0s/Bruce.
